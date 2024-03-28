@@ -1,1 +1,0 @@
-Place pretrained ConvNeXt weights and our saved model here.
