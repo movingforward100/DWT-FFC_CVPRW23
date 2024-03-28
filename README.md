@@ -1,4 +1,4 @@
-Details can be found 
+Details can be found https://github.com/zhouh115/DWT-FFC.
 
 # Citation
 If you find this repository helps, please consider citing:
